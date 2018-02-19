@@ -1,0 +1,40 @@
+.home-body {
+  font-size: large;
+  color: white;
+  
+  background: #595959;
+  opacity: 0.9;
+  
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.home-bio{
+  font-size: large;
+  color: white;
+
+  text-align: left;
+  
+  background: #595959;
+  opacity: 0.9;
+  
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.home-ul{
+	background: none;
+  list-style-type: disc;
+  margin: 0;
+  padding: 0;
+}

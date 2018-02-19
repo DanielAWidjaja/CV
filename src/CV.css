@@ -1,0 +1,86 @@
+.CV {
+  text-align: center;
+  background: #C0C0C0 repeat-x;
+  padding-bottom: 200px;
+}
+
+.CV-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.CV-li {
+    float: left;
+}
+
+.CV-li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.CV-li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.CV-red {
+  background: red;
+  opacity: 0.7;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.CV-starting {
+  background: #595959;
+  opacity: 0.9;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.CV-header {
+  background-color: #222;
+  height: 150px;
+  padding: 5px;
+  color: white;
+}
+
+.CV-body {
+  margin-right: 300px;
+  margin-left: 300px;
+  padding-left: 0px;
+  padding-right: 0px; 
+}
+
+.CV-title {
+  font-size: 3em;
+  margin: 15px;
+}
+
+.CV-subtitle {
+  font-size: 1.5em;
+  margin: 10px;
+}
+
+.CV-intro {
+  font-size: large;
+  color: white;
+}
