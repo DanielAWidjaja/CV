@@ -1,16 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 
 .CV {
-  background: url('./assets/wallpaper.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
   text-align: center;
   /*background: #C0C0C0;*/
   padding-bottom: 200px;
   height: 100%;
-  /*min-height: 100%;*/
-  min-height: 2300px;
+  min-height: 100%;
+  /*min-height: 2300px;*/
   /*position: relative;*/
 
   font-family: 'Varela Round';
@@ -67,6 +63,10 @@
 
 body {
   height: 100%;
+  background: url('./assets/wallpaper.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .CV-ul {

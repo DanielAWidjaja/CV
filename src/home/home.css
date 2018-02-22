@@ -1,13 +1,26 @@
+.home {
+  background: #595959;
+  margin-top: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  
+}
+
+#my-photo {
+  border-radius: 100%;
+  border: 3px solid white;
+}
+
 .home-body {
   font-size: large;
   color: white;
   
-  background: #595959;
   opacity: 0.9;
   
-  margin-top: 10px;
-  margin-left: 200px;
-  margin-right: 200px;
   
   padding-top: 10px;
   padding-bottom: 10px;
@@ -19,12 +32,8 @@
 
   text-align: left;
   
-  background: #595959;
   opacity: 0.9;
   
-  margin-top: 10px;
-  margin-left: 200px;
-  margin-right: 200px;
   
   padding-left: 25px;
   padding-right: 25px;
@@ -33,15 +42,11 @@
 }
 
 .home-ul{
-	background: none;
   list-style-type: disc;
-  margin: 0;
   padding: 0;
 }
 
 .home-ul-social{
   list-style-type: none;
-  background: none;
-  margin: 0;
   padding: 0;
 }

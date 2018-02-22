@@ -8,19 +8,19 @@ export class Achievement extends Component {
     return (
       <div>
         <ul class="achievement-ul">
-          <li><a>ACM-ICPC Jakarta 2017 - Finalist (Top 12 National Team) <br/>
+          <li><b>ACM-ICPC Jakarta 2017 - Finalist (Top 12 National Team) </b><br/>
             An ICPC Programming Style held by ACM in Jakarta competed with 80 teams from Asia Pacific Region
-            Team Profile: Kizza Manau - Degoldie Sonny, Daniel Alfred, Steven Kusuman</a><div id="coba"><br/><br/><br/></div>
+            Team Profile: Kizza Manau - Degoldie Sonny, Daniel Alfred, Steven Kusuman <br/><br/>
           </li>
           <li>Senior Competitive Programming Contest Compfest 9 - Honorable Mention <br/>
             Placed 5th in Competitive Programming Competition held by Faculty of Computer Science Universitas Indonesia
-            Team Profile: Bersaw - Muhammad Indra Ramadhan, Daniel Alfred, Reynaldo Wijaya Hendry
+            Team Profile: Bersaw - Muhammad Indra Ramadhan, Daniel Alfred, Reynaldo Wijaya Hendry <br/><br/>
           </li>
           <li>National Science Olympiad In Informatics 2016 - Gold Medal <br/>
-              Placed 2nd in Competitive Programming Competition held by Ministry of Education and Culture of Indonesia
+              Placed 2nd in Competitive Programming Competition held by Ministry of Education and Culture of Indonesia <br/><br/>
           </li>
           <li>National Science Olympiad In Informatics 2015 - Silver Medal<br/>
-              Placed 9th in Competitive Programming Competition held by Ministry of Education and Culture of Indonesia
+              Placed 9th in Competitive Programming Competition held by Ministry of Education and Culture of Indonesia <br/><br/>
           </li>
         </ul>
       </div>
