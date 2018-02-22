@@ -38,3 +38,10 @@
   margin: 0;
   padding: 0;
 }
+
+.home-ul-social{
+  list-style-type: none;
+  background: none;
+  margin: 0;
+  padding: 0;
+}

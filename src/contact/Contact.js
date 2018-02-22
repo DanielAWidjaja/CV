@@ -2,8 +2,8 @@ import React, {Component} from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import './contact.css';
 import Instagram_icon from './Instagram_icon.png';
-import facebook_icon from './facebook_icon.png';
-import linkedin_icon from './linkedin_icon.png';
+import facebook_icon from '../assets/facebook_icon.png';
+import linkedin_icon from '../assets/linkedin_icon.png';
 
 export class Contact extends Component {
   render() {
